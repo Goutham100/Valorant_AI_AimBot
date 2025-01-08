@@ -71,7 +71,7 @@ def aimbot():
                         relative_x = screen_x - screen_mid_x
                         relative_y = screen_y - screen_mid_y
 
-                        sensitivity = 0.7
+                        sensitivity = 0.8
                         relative_x = relative_x * sensitivity
                         relative_y = relative_y * sensitivity
 
