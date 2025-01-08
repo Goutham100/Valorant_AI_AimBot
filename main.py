@@ -72,8 +72,8 @@ def aimbot():
                         relative_y = screen_y - screen_mid_y
 
                         sensitivity = 0.7
-                        relative_x = int(relative_x * sensitivity)
-                        relative_y = int(relative_y * sensitivity)
+                        relative_x = relative_x * sensitivity
+                        relative_y = relative_y * sensitivity
 
                         print(f"Shooting at {relative_x},{relative_y}")
                         try:
