@@ -15,10 +15,3 @@ How to use:
 9. needs an arduino leonardo
 10. add ino script to it
 
-Problems faced and areas to improve:
-1. Has a Stroke when met with multiple enemies
-2. Overshooting [major issue]
-3. cannot differentiate between enemies and allies
-4. low accuracy for very far away enemies
-5. unpredictable program performances [due to shitty mouse offsets]
-6. for the moment can only track enemy heads and shoot for better performance
